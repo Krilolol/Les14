@@ -47,12 +47,13 @@ db.workouts.insertOne({"Workout_id": "44", "description": "Cardio Training", "di
 
 ### Trainers: trainer_id, name, specialization
 
-db.trainers.insertOne({"trainer_id": "101", "name": "Toto Wolf", "email": "toto.wolf@example.com", "age": 50})
+db.trainers.insertOne({"trainer_id": "101", "name": "Toto Wolf", "specialization": "Extrim", "age": 50})
 
-db.trainers.insertOne({"trainer_id": "102", "name": "Leonel Messi", "email": "messi@example.com", "age": 38})
+db.trainers.insertOne({"trainer_id": "102", "name": "Leonel Messi", "specialization": "Athletics", "age": 38})
 
-db.trainers.insertOne({"trainer_id": "103", "name": "Mickel Falbs", "email": "falbs@example.com", "age": 48})
-![trainers](https://github.com/user-attachments/assets/5461694a-6a58-4900-a888-9e1cd9fb558d)
+db.trainers.insertOne({"trainer_id": "103", "name": "Mickel Falbs", "specialization": "Swimming", "age": 48})
+![trainers](https://github.com/user-attachments/assets/12b468c6-93fd-499f-b557-954f86bccf0d)
+
 
 ##  Запити:
 ### Знайдіть всіх клієнтів віком понад 30 років
