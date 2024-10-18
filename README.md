@@ -4,6 +4,9 @@
 ## 1) Створення бази даних та колекцій:
 
 ### Назвіть базу даних як gymDatabase
+![Create](https://github.com/user-attachments/assets/cb72e6ca-b526-47d4-ad09-7861c1221f9e)
+
+
 use gymDatabase
 
 switched to db gymDatabase
