@@ -58,8 +58,6 @@ db.trainers.insertOne({"trainer_id": "103", "name": "Mickel Falbs", "email": "fa
 ### Знайдіть всіх клієнтів віком понад 30 років
 ![client-30](https://github.com/user-attachments/assets/6b100314-5826-4e9d-9909-4cd88cb8b283)
 
-![client_30](https://github.com/user-attachments/assets/8b6efef8-5c71-4236-908f-87d2c5ebefa6)
-
 ### Перелічіть тренування із середньою складністю
 ![Medium](https://github.com/user-attachments/assets/0ca9f5ac-2ee3-4ed6-a0f4-8b3efe604fc6)
 
